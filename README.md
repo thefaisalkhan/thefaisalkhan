@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Faisal Khan</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thefaisalkhan&label=Profile%20views&color=0e75b6&style=flat" alt="thefaisalkhan" /> </p>
-
 <p align="left"> <a href="https://twitter.com/itzzfaisalkhan" target="blank"><img src="https://img.shields.io/twitter/follow/itzzfaisalkhan?logo=twitter&style=for-the-badge" alt="itzzfaisalkhan" /></a> </p>
 
 - 🌱 I’m currently learning **Angular & MERN Stack**
